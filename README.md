@@ -8,7 +8,6 @@ A data analytics project analyzing sales performance, revenue trends, profitabil
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Visualization-purple)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
-
 ## 📌 Project Overview
 
 Sales performance analysis enables organizations to evaluate business growth, identify profitable products, understand customer purchasing behavior, and optimize operational strategies. This project performs an end-to-end analysis of the **Superstore Sales Dataset** to uncover sales trends, regional performance, customer segments, product profitability, and seasonal demand patterns.
@@ -229,6 +228,4 @@ The findings help organizations improve inventory planning, optimize marketing s
 
 **Mahalakshmi**
 
-Data Analytics Intern
-
-⭐ If you found this project useful, consider starring this repository.
+Data Analytics Inten
