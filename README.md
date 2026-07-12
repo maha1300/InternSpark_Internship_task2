@@ -2,12 +2,6 @@
 A data analytics project analyzing sales performance, revenue trends, profitability, and business insights using Python, Pandas, and data visualization techniques.
 # 📊 Sales Performance Analysis
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Visualization-purple)
-![Status](https://img.shields.io/badge/Project-Completed-success)
 ## 📌 Project Overview
 
 Sales performance analysis enables organizations to evaluate business growth, identify profitable products, understand customer purchasing behavior, and optimize operational strategies. This project performs an end-to-end analysis of the **Superstore Sales Dataset** to uncover sales trends, regional performance, customer segments, product profitability, and seasonal demand patterns.
